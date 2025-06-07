@@ -17,7 +17,6 @@ body {
 }
 
 .menu a {
-  color: black;
   text-decoration: none;
   font-weight: bold;
   transition: opacity 0.3s;
