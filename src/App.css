@@ -6,7 +6,6 @@ body {
 .app-container {
   background-color: #fdfdfd;
   min-height: 100vh;
-  color: black;
 }
 
 .menu {
@@ -30,6 +29,7 @@ body {
 
 .page-content {
   padding: 40px;
+  color: #2ecc71;
 }
 
 
